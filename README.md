@@ -1,7 +1,7 @@
 # ❤️ In Name Of God ❤️
 
 # How? 
-This Is App Create Blog With Html And Css And Js
+This Is App Create Blog + Img + Titel + Text Blog + Color With Html And Css And Js
 # Programin Language:
 Html, Css, JavaScript
 # Code:
